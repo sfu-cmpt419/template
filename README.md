@@ -1,5 +1,5 @@
-# SFU CMPT 340 Project Template -- Replace with project title
-This repository is a template for your CMPT 340 course project.
+# SFU CMPT 419 Project Template -- Replace with project title
+This repository is a template for your CMPT 419 course project.
 Replace the title with your project title, and **add a snappy acronym that people remember (mnemonic)**.
 
 Add a 1-2 line summary of your project here.
